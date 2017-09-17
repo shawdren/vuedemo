@@ -1,5 +1,6 @@
 <template>
     <div class="basic">
+        <router-link to="/">Home</router-link>
         <h1>{{ msg }}</h1>
         <h2>Data Binding</h2>
         <h3>One way</h3>
