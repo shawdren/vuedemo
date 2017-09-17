@@ -3,7 +3,9 @@
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <router-link to="basic">Basic</router-link>
-    
+    <h2>Exteral Links</h2>
+    <a href="https://vuejs.org/v2/api/"> Vuejs API</a><br>
+    <a href="https://vue-school.com">vue-school</a>
   </div>
 </template>
 
